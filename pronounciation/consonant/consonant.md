@@ -27,7 +27,7 @@
 
 - ɳ: https://youtu.be/4cU9fqpCqBA?t=363
 
-- i: https://youtu.be/4cU9fqpCqBA?t=375
+- l: https://youtu.be/4cU9fqpCqBA?t=375
 
 - w: https://youtu.be/4cU9fqpCqBA?t=386
 
