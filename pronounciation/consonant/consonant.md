@@ -43,7 +43,7 @@
    
    - f: https://youtu.be/4cU9fqpCqBA?t=149
    
-   - tʃ: https://youtube.com/watch?v=G4Z5qngn-48&t=771s
+   - tʃ: https://youtu.be/4cU9fqpCqBA?t=278
    
    - s: https://youtu.be/G4Z5qngn-48?t=2703
    
